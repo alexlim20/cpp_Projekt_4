@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1666214408 source:c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"testlevel.h"
+	"queueelement.h"
+	"queue.h"
+
+1666212101 c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\testlevel.h
+
+1666048667 c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\queueelement.h
+
+1666134129 c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\queue.h
+
+1666049837 source:c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\queueelement.cpp
+	"string.h"
+	<iostream>
+	"queueelement.h"
+
+1666214342 source:c:\users\alexl\desktop\pin2\pin2_w2022\01_queue\queue.cpp
+	"queue.h"
+	"queueelement.h"
+	<iostream>
+
